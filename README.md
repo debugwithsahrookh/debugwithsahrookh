@@ -6,8 +6,6 @@ Hi! I'm **Sahrookh Khan**, an MCA student passionate about building scalable and
 
 🚀 My goal is to become a Software Development Engineer by continuously learning, building real-world projects, and improving my problem-solving skills.
 
----
-
 # 🌱 Currently Learning
 
 - ☕ Spring Boot & Spring Security
@@ -33,8 +31,6 @@ Hi! I'm **Sahrookh Khan**, an MCA student passionate about building scalable and
 
 </p>
 
----
-
 ### ⚙️ Backend Development
 
 <p>
@@ -52,8 +48,6 @@ Hi! I'm **Sahrookh Khan**, an MCA student passionate about building scalable and
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
 
 </p>
-
----
 
 ### 🎨 Frontend Development
 
@@ -73,8 +67,6 @@ Hi! I'm **Sahrookh Khan**, an MCA student passionate about building scalable and
 
 </p>
 
----
-
 ### 🗄️ Database
 
 <p>
@@ -84,8 +76,6 @@ Hi! I'm **Sahrookh Khan**, an MCA student passionate about building scalable and
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 </p>
-
----
 
 ### 🛠️ Tools & Technologies
 
