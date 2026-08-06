@@ -1,4 +1,4 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ===================== HEADER ===================== -->
 
 <h1 align="center">Hi 👋, I'm Sahrookh Khan</h1>
 
@@ -7,98 +7,66 @@ Java Full Stack Developer • MCA Student • Backend Enthusiast
 </h3>
 
 <p align="center">
-Building scalable Java applications, learning every day, and turning ideas into real-world software.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Building+Scalable+Applications;Learning+Something+New+Every+Day;Future+Software+Engineer" />
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies;Building+Projects+That+Solve+Problems"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" width="350" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+<img align="right" width="330" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
-🎓 MCA Student passionate about Software Engineering.
+🎓 MCA Student passionate about Software Development.
 
-☕ Java Backend Developer focused on building scalable REST APIs.
+☕ Java Full Stack Developer focused on building scalable and secure web applications.
 
-💻 Experienced with Spring Boot, React, MySQL, JWT Authentication and RESTful Architecture.
+💻 Skilled in Java, Spring Boot, React, REST APIs, MySQL, and JWT Authentication.
 
-📚 Currently learning
+🌱 Currently exploring Microservices, Docker, AWS, and System Design.
 
-- Microservices
-- Docker
-- System Design
-- AWS Cloud
-- CI/CD
-
-🚀 Interested in
-
-- Backend Development
-- Full Stack Development
-- Software Architecture
-- Open Source
-- Clean Code
-
-🎯 2026 Goals
-
-- Master Spring Boot Ecosystem
-- Build Enterprise-Level Projects
-- Contribute to Open Source
-- Crack Software Engineering Internships
-- Become an SDE
+🎯 Aspiring Software Engineer who enjoys solving real-world problems through clean and efficient code.
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css"/>
-
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css" />
 </p>
 
 ### Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven"/>
-
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven" />
 </p>
 
 ### Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap"/>
-
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
 </p>
 
 ### Database
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode,linux"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode,linux" />
 </p>
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -116,7 +84,7 @@ Building scalable Java applications, learning every day, and turning ideas into 
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -126,13 +94,36 @@ Building scalable Java applications, learning every day, and turning ideas into 
 
 ---
 
-# 🏆 GitHub Trophies
+# 🚀 Current Focus
 
-<p align="center">
+<table>
+<tr>
+<td>
 
-<img src="https://github-profile-trophy.vercel.app/?username=debugwithsahrookh&theme=tokyonight&margin-w=15&margin-h=15&column=4&no-frame=true"/>
+✅ Enterprise Java Applications
 
-</p>
+✅ Spring Boot REST APIs
+
+✅ Microservices Architecture
+
+✅ Docker & CI/CD
+
+</td>
+
+<td>
+
+✅ Data Structures & Algorithms
+
+✅ System Design
+
+✅ AWS Cloud Basics
+
+✅ Open Source Contributions
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -156,48 +147,39 @@ Building scalable Java applications, learning every day, and turning ideas into 
 
 ---
 
-# 💡 Featured Projects
+# ⚡ Fun Fact
 
-⭐ SmartHire ATS
-
-Enterprise-level Applicant Tracking System built using Spring Boot.
-
-⭐ Resume Analyser
-
-AI-powered resume analysis platform with job recommendations.
-
-⭐ SnapLink
-
-Secure URL Shortener with analytics, QR generation, and authentication.
-
----
-
-# 📚 Currently Exploring
+<div align="center">
 
 ```text
-✔ Spring Boot 3
-✔ Spring Security
-✔ JWT Authentication
-✔ Hibernate
-✔ Docker
-✔ Microservices
-✔ REST APIs
-✔ System Design
-✔ AWS Basics
+while(!success){
+    Learn();
+    Build();
+    Improve();
+    Repeat();
+}
 ```
 
----
-
-# 📖 Favorite Quote
-
-> "First, solve the problem. Then, write the code."
-
-— John Johnson
+</div>
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=debugwithsahrookh&style=for-the-badge&color=blue"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debugwithsahrookh&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=debugwithsahrookh&style=for-the-badge&color=0891b2"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
 
 </p>
