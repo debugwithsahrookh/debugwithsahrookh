@@ -1,21 +1,138 @@
-# 💫 About Me:
-👋 Hi, I'm Shaarky<br><br>🎓 MCA Student<br>💻 Full Stack Developer<br>☕ Java & Spring Boot Enthusiast<br>⚛️ Building modern web applications with React and Node.js<br>🚀 Passionate about solving problems and creating real-world projects<br>📚 Always learning new technologies and improving every day
+```markdown
+# 💫 About Me
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shaaahrukhhh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahrookh-khan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saaru0224@gmail.com) 
+Hi there! 👋 I'm **Sahrookh Khan (Shaarky)**
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=debugwithsahrookh&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=debugwithsahrookh&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=debugwithsahrookh&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🎓 MCA Student passionate about **Software Development** and **Backend Engineering**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=debugwithsahrookh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+💻 I specialize in building scalable and secure applications using **Java**, **Spring Boot**, and modern web technologies.
+
+🚀 I enjoy transforming ideas into real-world applications while following clean architecture, best coding practices, and industry standards.
+
+🌱 Currently exploring:
+- Microservices
+- Spring Security & JWT
+- Docker & CI/CD
+- System Design
+- Cloud Deployment
+
+💡 I love solving challenging problems, learning new technologies, and building projects that strengthen my development skills.
+
+⚡ **Goal:** Become a Software Engineer at a top product-based company and contribute to impactful software.
 
 ---
-[![](https://komarev.com/ghpvc/?username=debugwithsahrookh&icon=1&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/debugwithsahrookh" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sahrookh-khan" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### 🚀 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven" />
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### 🛠 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode,linux" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=debugwithsahrookh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debugwithsahrookh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=debugwithsahrookh&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=debugwithsahrookh&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=debugwithsahrookh&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 🔥 Current Focus
+
+- 🚀 Building Enterprise Java Spring Boot Applications
+- 📚 Data Structures & Algorithms
+- ☁️ Docker & Cloud Deployment
+- 🏗 System Design
+- 💼 Preparing for Software Engineering Interviews
+
+---
+
+# ✨ Quote
+
+> **"Code with purpose. Learn with curiosity. Build for impact."**
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=debugwithsahrookh&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+```
