@@ -119,8 +119,6 @@ Hi! I'm **Sahrookh Khan**, an MCA student passionate about building scalable and
 
 </p>
 
----
-
 <div align="center">
 
 ### 🚀 *"Code. Learn. Build. Repeat."*
