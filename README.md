@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sahrookh Khan</h1>
-
-<h3 align="center">
-Java Full Stack Developer • MCA Student • Spring Boot Enthusiast
-</h3>
-
----
-
 ## 👨‍💻 About Me
 
 Hi! I'm **Sahrookh Khan**, an MCA student passionate about building scalable and modern web applications.
