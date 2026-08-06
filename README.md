@@ -1,185 +1,168 @@
-<!-- ===================== HEADER ===================== -->
-
 <h1 align="center">Hi 👋, I'm Sahrookh Khan</h1>
 
 <h3 align="center">
-Java Full Stack Developer • MCA Student • Backend Enthusiast
+Java Full Stack Developer • MCA Student • Spring Boot Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Building+Scalable+Applications;Learning+Something+New+Every+Day;Future+Software+Engineer" />
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+Developer;Spring+Boot+Backend+Developer;Full+Stack+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="330" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+Hi! I'm **Sahrookh Khan**, an MCA student passionate about building modern and scalable web applications.
 
-🎓 MCA Student passionate about Software Development.
+I enjoy developing secure backend systems using **Java** and **Spring Boot**, while also creating responsive user interfaces with **React**.
 
-☕ Java Full Stack Developer focused on building scalable and secure web applications.
+Currently, I'm focused on improving my backend development skills by building real-world projects and learning software engineering best practices.
 
-💻 Skilled in Java, Spring Boot, React, REST APIs, MySQL, and JWT Authentication.
+### 🚀 Currently Learning
 
-🌱 Currently exploring Microservices, Docker, AWS, and System Design.
+- Spring Boot
+- Spring Security & JWT
+- Docker
+- Microservices
+- System Design
+- AWS Basics
 
-🎯 Aspiring Software Engineer who enjoys solving real-world problems through clean and efficient code.
+### 🎯 Career Goal
 
----
-
-# 💻 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode,linux" />
-</p>
+- Software Development Engineer (SDE)
+- Java Backend Developer
+- Full Stack Developer
 
 ---
 
-# 📊 GitHub Analytics
+# 💻 Skills
 
-<p align="center">
+### ☕ Programming Languages
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=debugwithsahrookh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debugwithsahrookh&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=debugwithsahrookh&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+### ⚙️ Backend Development
 
-<p align="center">
+<p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=debugwithsahrookh&theme=tokyo-night&hide_border=true"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST API-02569B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
 
 </p>
 
 ---
 
-# 🚀 Current Focus
+### 🎨 Frontend Development
 
-<table>
-<tr>
-<td>
+<p>
 
-✅ Enterprise Java Applications
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
 
-✅ Spring Boot REST APIs
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite"/>
 
-✅ Microservices Architecture
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
 
-✅ Docker & CI/CD
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
 
-</td>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
 
-<td>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
 
-✅ Data Structures & Algorithms
+</p>
 
-✅ System Design
+---
 
-✅ AWS Cloud Basics
+### 🗄️ Database
 
-✅ Open Source Contributions
+<p>
 
-</td>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 
-</tr>
-</table>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+
+</p>
+
+---
+
+### 🛠️ Tools & Technologies
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea"/>
+
+<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 📌 SmartHire ATS
+
+Enterprise-level Applicant Tracking System built using Spring Boot and React.
+
+### 📌 Resume Analyser
+
+AI-powered Resume Analysis platform using Gemini API with Resume Scoring and Job Recommendations.
+
+### 📌 SnapLink
+
+Modern URL Shortener with Analytics, QR Code Generation, JWT Authentication, and Role-Based Access.
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p>
 
 <a href="https://github.com/debugwithsahrookh">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sahrookh-khan">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# ⚡ Fun Fact
-
-<div align="center">
-
-```text
-while(!success){
-    Learn();
-    Build();
-    Improve();
-    Repeat();
-}
-```
-
-</div>
-
----
-
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debugwithsahrookh&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=debugwithsahrookh&style=for-the-badge&color=0891b2"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=debugwithsahrookh&style=for-the-badge&color=blue"/>
 
 </p>
