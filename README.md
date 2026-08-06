@@ -1,99 +1,122 @@
-# 💫 About Me
+<!-- ======================= HEADER ======================= -->
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<h1 align="center">Hi 👋, I'm Sahrookh Khan</h1>
 
-Hi there! 👋 I'm **Sahrookh Khan (Shaarky)**
+<h3 align="center">
+Java Full Stack Developer • MCA Student • Backend Enthusiast
+</h3>
 
-🎓 MCA Student passionate about **Software Development** and **Backend Engineering**.
+<p align="center">
+Building scalable Java applications, learning every day, and turning ideas into real-world software.
+</p>
 
-💻 I specialize in building scalable and secure applications using **Java**, **Spring Boot**, and modern web technologies.
+<p align="center">
 
-🚀 I enjoy transforming ideas into real-world applications while following clean architecture, best coding practices, and industry standards.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies;Building+Projects+That+Solve+Problems"/>
 
-🌱 Currently exploring:
+</p>
+
+---
+
+## 🚀 About Me
+
+<img align="right" width="350" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+
+🎓 MCA Student passionate about Software Engineering.
+
+☕ Java Backend Developer focused on building scalable REST APIs.
+
+💻 Experienced with Spring Boot, React, MySQL, JWT Authentication and RESTful Architecture.
+
+📚 Currently learning
+
 - Microservices
-- Spring Security & JWT
-- Docker & CI/CD
+- Docker
 - System Design
-- Cloud Deployment
+- AWS Cloud
+- CI/CD
 
-💡 I love solving challenging problems, learning new technologies, and building projects that strengthen my development skills.
+🚀 Interested in
 
-⚡ **Goal:** Become a Software Engineer at a top product-based company and contribute to impactful software.
+- Backend Development
+- Full Stack Development
+- Software Architecture
+- Open Source
+- Clean Code
 
----
+🎯 2026 Goals
 
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/debugwithsahrookh" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sahrookh-khan" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-</p>
+- Master Spring Boot Ecosystem
+- Build Enterprise-Level Projects
+- Contribute to Open Source
+- Crack Software Engineering Internships
+- Become an SDE
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
-### 🚀 Programming Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python" />
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css"/>
+
 </p>
 
-### ⚙️ Backend Development
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven" />
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven"/>
+
 </p>
 
-### 🎨 Frontend Development
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite" />
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap"/>
+
 </p>
 
-### 🗄️ Databases
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
 </p>
 
-### 🛠 Tools & Technologies
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode,linux" />
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode,linux"/>
+
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=debugwithsahrookh&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=debugwithsahrookh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debugwithsahrookh&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debugwithsahrookh&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=debugwithsahrookh&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=debugwithsahrookh&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -107,31 +130,74 @@ Hi there! 👋 I'm **Sahrookh Khan (Shaarky)**
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=debugwithsahrookh&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=debugwithsahrookh&theme=tokyonight&margin-w=15&margin-h=15&column=4&no-frame=true"/>
 
 </p>
 
 ---
 
-# 🔥 Current Focus
+# 🌐 Connect With Me
 
-- 🚀 Building Enterprise Java Spring Boot Applications
-- 📚 Data Structures & Algorithms
-- ☁️ Docker & Cloud Deployment
-- 🏗 System Design
-- 💼 Preparing for Software Engineering Interviews
+<p align="center">
+
+<a href="https://github.com/debugwithsahrookh">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sahrookh-khan">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+</p>
 
 ---
 
-# ✨ Quote
+# 💡 Featured Projects
 
-> **"Code with purpose. Learn with curiosity. Build for impact."**
+⭐ SmartHire ATS
+
+Enterprise-level Applicant Tracking System built using Spring Boot.
+
+⭐ Resume Analyser
+
+AI-powered resume analysis platform with job recommendations.
+
+⭐ SnapLink
+
+Secure URL Shortener with analytics, QR generation, and authentication.
+
+---
+
+# 📚 Currently Exploring
+
+```text
+✔ Spring Boot 3
+✔ Spring Security
+✔ JWT Authentication
+✔ Hibernate
+✔ Docker
+✔ Microservices
+✔ REST APIs
+✔ System Design
+✔ AWS Basics
+```
+
+---
+
+# 📖 Favorite Quote
+
+> "First, solve the problem. Then, write the code."
+
+— John Johnson
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=debugwithsahrookh&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=debugwithsahrookh&style=for-the-badge&color=blue"/>
 
 </p>
-```
